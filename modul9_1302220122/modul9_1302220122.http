@@ -1,0 +1,6 @@
+@modul9_1302220122_HostAddress = http://localhost:5209
+
+GET {{modul9_1302220122_HostAddress}}/Mahasiswa/
+Accept: application/json
+
+###
